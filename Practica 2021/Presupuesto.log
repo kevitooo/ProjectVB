@@ -1,0 +1,19 @@
+Línea 427: la clase MSMask.MaskEdBox del control maskFecha no era una clase de control cargada.
+Línea 450: la clase MSMask.MaskEdBox del control maskVence no era una clase de control cargada.
+Línea 599: la clase MSMask.MaskEdBox del control maskCUIT no era una clase de control cargada.
+Línea 433: el nombre de la propiedad _ExtentX de maskFecha no es válido.
+Línea 434: el nombre de la propiedad _ExtentY de maskFecha no es válido.
+Línea 435: el nombre de la propiedad _Version de maskFecha no es válido.
+Línea 437: el nombre de la propiedad MaxLength de maskFecha no es válido.
+Línea 447: el nombre de la propiedad Mask de maskFecha no es válido.
+Línea 448: el nombre de la propiedad PromptChar de maskFecha no es válido.
+Línea 456: el nombre de la propiedad _ExtentX de maskVence no es válido.
+Línea 457: el nombre de la propiedad _ExtentY de maskVence no es válido.
+Línea 458: el nombre de la propiedad _Version de maskVence no es válido.
+Línea 460: el nombre de la propiedad MaxLength de maskVence no es válido.
+Línea 470: el nombre de la propiedad Mask de maskVence no es válido.
+Línea 471: el nombre de la propiedad PromptChar de maskVence no es válido.
+Línea 605: el nombre de la propiedad _ExtentX de maskCUIT no es válido.
+Línea 606: el nombre de la propiedad _ExtentY de maskCUIT no es válido.
+Línea 607: el nombre de la propiedad _Version de maskCUIT no es válido.
+Línea 618: el nombre de la propiedad PromptChar de maskCUIT no es válido.
